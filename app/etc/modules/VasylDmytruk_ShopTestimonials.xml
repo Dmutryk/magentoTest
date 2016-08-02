@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <VasylDmytruk_ShopTestimonials>
+            <active>true</active>
+            <codePool>local</codePool>
+        </VasylDmytruk_ShopTestimonials>
+    </modules>
+</config>
